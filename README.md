@@ -1,2 +1,2 @@
 # Skoltech
-The storage of homeworks and projects from Skoltech
+The storage of homeworks and projects from Skoltech.
